@@ -5,6 +5,9 @@
       Amazon Elastic Kubernetes Service
       AWS Lambda with container images.
 
+# Lambda 
+
+
 # Cloud9
       Getting Started 
       AWS CLI 2 install 
@@ -48,10 +51,21 @@
        Share your thought 
        New Start up 
        Cognito 
-   
+       
+       Whizlabs
+       Elastic beanstalk deploy sample application 
+       Add a database to Elastic beanstalk 
+       Blue/Green Deployment with Elasticbeanstalk 
+       Create and Configure pipeline for Elastic beanstalk 
+       Build a fault-tolerant Elastic beanstalk application using deployment policies
+
+       Workshops 
+       https://catalog.us-east-1.prod.workshops.aws/workshops/ffb2b90a-c99b-499d-a077-551cbf0dee84/en-US
+       https://application-migration-with-aws.workshop.aws/en/elasticbeanstalk-migration.html
+       https://workshops.devax.academy/monoliths-to-microservices/
 # CodeStar 
         Deploying and updating sample code using CodeStar 
-
+        Deploying a custom code using CodeStar
 # Cloudformation Basics 
         Explain Cloudformation templetes 
         
