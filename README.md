@@ -58,7 +58,8 @@
        Blue/Green Deployment with Elasticbeanstalk 
        Create and Configure pipeline for Elastic beanstalk 
        Build a fault-tolerant Elastic beanstalk application using deployment policies
-
+       Create and understand types of events in code pipeline with SNS
+       
        Workshops 
        https://catalog.us-east-1.prod.workshops.aws/workshops/ffb2b90a-c99b-499d-a077-551cbf0dee84/en-US
        https://application-migration-with-aws.workshop.aws/en/elasticbeanstalk-migration.html
@@ -91,7 +92,9 @@
         Deploy an application from GitHub 
         Deploy an application from ECS service with validation test 
         Deploy a lambda function using AWS SAM 
-
+        
+        Workshop 
+        https://catalog.us-east-1.prod.workshops.aws/workshops/ef1c179d-8097-4f34-8dc3-0e9eb381b6eb/en-US
 CodeBuild 
 
 CodePipeline
