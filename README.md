@@ -70,6 +70,18 @@
         Explain Cloudformation templetes 
         
 # CodeDeploy
+        acloudguru 
+
+      Working with a DevOps CI/CD pipeline in AWS 
+      Rolling update with AWS Code Deploy 
+      Setting up pipeline for Manual approval 
+      Deploying Static website with aws CI/CD pipeline 
+
+      Whizlabs 
+      Deploying sample wordpress application using Code Deploy
+      Deploying containerized application on ECS using CodeDeploy -1 
+      Deploying containerized application on ECS using CodeDeploy  with ECR
+
         https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-wordpress.html
         Getting Started Tutorial 
         Deploy Wordpress to non-windows instance 
