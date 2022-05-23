@@ -45,3 +45,9 @@ aws ec2 associate-iam-instance-profile --instance-id i-123456789abcde123 --iam-i
 ## Switch Role 
 Role name 
 External id 
+
+## Resource based policy 
+
+## When do you need Root user 
+Route 53 registration 
+Billing ??
