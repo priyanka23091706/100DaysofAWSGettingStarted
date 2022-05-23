@@ -42,3 +42,6 @@ aws iam add-role-to-instance-profile --role-name S3Access --instance-profile-nam
 
 aws ec2 associate-iam-instance-profile --instance-id i-123456789abcde123 --iam-instance-profile Name=Webserver
 
+## Switch Role 
+Role name 
+External id 
