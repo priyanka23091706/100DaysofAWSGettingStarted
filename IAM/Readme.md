@@ -37,6 +37,7 @@ aws iam get-user --user-name Paulo
 
 ## Add role to instance profile 
 aws iam create-instance-profile --instance-profile-name Webserver
+
 aws iam add-role-to-instance-profile --role-name S3Access --instance-profile-name Webserver
 
 aws ec2 associate-iam-instance-profile --instance-id i-123456789abcde123 --iam-instance-profile Name=Webserver
