@@ -106,13 +106,13 @@
    ## Advanced      
         Workshop 
         https://catalog.us-east-1.prod.workshops.aws/workshops/ef1c179d-8097-4f34-8dc3-0e9eb381b6eb/en-US
-CodeBuild 
+## CodeBuild 
 
-CodePipeline
+## CodePipeline
     Whizlabs 
     Create and understand types of events in code pipeline with SNS
 
-ECS
+## ECS
 
-EKS 
+## EKS 
 
