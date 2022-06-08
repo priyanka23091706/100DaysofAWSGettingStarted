@@ -43,3 +43,7 @@
 
 
 ## Create RDS Database 
+
+## Modify Security Groups
+
+## Complete Wordpress Installation and Test
