@@ -1,4 +1,4 @@
-## Creating and Restoring a Linux EC2 Snapshot
+## Creating and Restoring a Linux EC2 Snapshot to restore data 
 
 ## Create a Snapshot for backup 
 
