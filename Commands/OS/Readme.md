@@ -2,7 +2,7 @@
 
 cat /etc/os-release
 
-## In the EC2 CLI, verify the httpd service is running:
+## In the EC2 CLI, verify the Apache httpd service is running:
 
 systemctl status httpd.service
 
