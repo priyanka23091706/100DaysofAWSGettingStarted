@@ -1,4 +1,5 @@
-## Install httpd and Custom Message
+## Create Custom AMI and Launch new instance 
+
 ## Install httpd:
 yum install -y httpd
 systemctl enable httpd.service
